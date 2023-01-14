@@ -1,0 +1,26 @@
+h1 {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-weight: bold;
+  }
+  h2 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-weight: bold;
+  }
+  h3 {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-weight: bold;
+  }
+ 
+p {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-right: 30px;
+}                    
+body {
+  background: linear-gradient(#f5f1f1 0%, #a19f9d 100%);
+}                                
